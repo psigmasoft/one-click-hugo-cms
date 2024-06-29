@@ -1,20 +1,22 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Lioness Legends
+subtitle: The England Women's Football Team
+image: https://e0.365dm.com/22/07/2048x1152/skysports-england-lionesses_5826782.jpg?20220707130307
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: "intro "
+  text: into to the lionesses
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: more stuff
+  text: more info to write
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: https://images.footballfanatics.com/england-national-team/england-mono-logo-graphic-t-shirt-pink-womens_ss4_p-13346265+u-r3hubr7i7xpdbe661hen+v-ea29c580a8a3499ebee0868ca3877f14.jpg?_hv=2&w=900
+    text: t shirts to buy
+  - image: https://images.footballfanatics.com/england-national-team/england-mono-logo-graphic-t-shirt-pink-womens_ss4_p-13346265+u-r3hubr7i7xpdbe661hen+v-ea29c580a8a3499ebee0868ca3877f14.jpg?_hv=2&w=900
+    text: more products to buy
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
-
