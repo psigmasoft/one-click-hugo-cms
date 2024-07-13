@@ -1,6 +1,6 @@
 ---
 title: Lioness Legends
-subtitle: The England Women's Football Team
+subtitle: All the news of the England Women's football team
 image: https://e0.365dm.com/22/07/2048x1152/skysports-england-lionesses_5826782.jpg?20220707130307
 blurb:
   heading: "intro "
