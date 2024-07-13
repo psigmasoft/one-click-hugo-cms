@@ -14,9 +14,6 @@ products:
   - image: https://images.footballfanatics.com/england-national-team/england-mono-logo-graphic-t-shirt-pink-womens_ss4_p-13346265+u-r3hubr7i7xpdbe661hen+v-ea29c580a8a3499ebee0868ca3877f14.jpg?_hv=2&w=900
     text: more products to buy
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: England Lionesses win the 2022 Euros!
+  text: Read more here
 ---
